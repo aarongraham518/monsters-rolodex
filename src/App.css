@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.myH1{
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+.myH2{
+  color: white;
+  margin: 0;
+}
